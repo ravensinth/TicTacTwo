@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacTwo", "TicTacTwo\TicTacTwo\TicTacTwo.csproj", "{B8F1D8A5-6A03-4600-BA09-2EC430378525}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TicTacTwoContent", "TicTacTwo\TicTacTwoContent\TicTacTwoContent.contentproj", "{983A8C56-8394-4FBD-A227-E302DF6CFF28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8F1D8A5-6A03-4600-BA09-2EC430378525}.Debug|x86.ActiveCfg = Debug|x86
+		{B8F1D8A5-6A03-4600-BA09-2EC430378525}.Debug|x86.Build.0 = Debug|x86
+		{B8F1D8A5-6A03-4600-BA09-2EC430378525}.Release|x86.ActiveCfg = Release|x86
+		{B8F1D8A5-6A03-4600-BA09-2EC430378525}.Release|x86.Build.0 = Release|x86
+		{983A8C56-8394-4FBD-A227-E302DF6CFF28}.Debug|x86.ActiveCfg = Debug|x86
+		{983A8C56-8394-4FBD-A227-E302DF6CFF28}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
